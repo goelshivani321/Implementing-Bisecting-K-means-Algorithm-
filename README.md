@@ -1,7 +1,10 @@
-Assignment2
+Personal Project
 ==============================
 
-CMPE255 assignment 2 bisecting k-means
+Implementing Bisecting K-means Algorithm in Python
+
+Bisecting k-means algorithm was implemented in python, without the use of any libraries. 8580 text records in sparse format were processed. Each of the input instances was assigned to 7 clusters. The project helped to understand the internal cluster evaluation metrics and bisecting k-means algorithm
+
 
 Project Organization
 ------------
